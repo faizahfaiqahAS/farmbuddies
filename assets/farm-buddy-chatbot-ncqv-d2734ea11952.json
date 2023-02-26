@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "farm-buddy-chatbot-ncqv",
+  "private_key_id": "d2734ea1195288c284bfd635d147d01a4a498709",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQ9cBeWszvswYH\n0MCD2c86ffGDttH2p5UogTqGRWaqoArEcSM64Dg5f5D3f4As4pGJrcf7rQclSjIN\nv6EQ+gk/mxOrEIdx/1pReda17ubBLdpJgjkDmrPKr/t6x7ylyfRGCKhFNucIdqZY\nLdJ/6TDZlCpAs4sGpVY9uqQR0+Da68IXj16Yx0Iuo8Jnimftd56JVkvOVCaFw/Ej\nUhNVNVf3jSNz2gEoyd2df3Dfjzd7x0qxtv7QerZ7aFfbWautABmqA9RfEaQECeSz\nr/O51yiVf9KJjgVtKUWH0TEGMMA4uabX494l1nPdNcVxVIDxRwxs7dK45uTzJQUh\n8ramREAzAgMBAAECggEADaVqHV9XQ3VQ0mejr7I+OJPEykH0S7DdaoQOxkaeMhj6\nJKKk1wsq8NC8lV7HIc2sDOGdJ6zz95xbhEIi94cn3anRd4CNVkVp6KjVyKzXQ5j5\nSLqpFLitWPInY99kzPweDtX+GZym96Q6Y2DR5RbD+p/7JtC/pm/1H8CvRuP43iMD\nQOpD2XIZBwaq53bUmd7DSbqPDKxlKucqOTdm6dNk/DSN/L2+iYKNyfGytv5xkeka\nuYmddW/ulCUgTCCDNfFvHV1vHktYjgAARS/AjFoDyzZ9cR5KEWNfUxMgfkGTvIya\nYqbcOlmIJgm3InWmqzRNKsVpkgi9fj0wDRvB5EvOsQKBgQD55629DKn5fLKZHxNk\nnQXahQ8hfuPRHfe8f0wV/47mheX8i65Pz/rRHMkKon+tqGBOKpivXqu/TzBn6sEq\nSSZcFBe2CLOhclKUFDbuih4Zhleo6k02CXyHQSameerHysIETOJebVBetLoigHdd\nnbE9wXEWCy9ik43ApHessm6HgwKBgQDWDm0Pi6anz4bNpr+WgvvbHJDbpv+g84W5\ngftASIOyPbIZNaugEbnNhKxJhaXm9a1yHt2IDkuwkbAAFiibtIBwqIWPxJJSIz3K\nqD19pYYTg4PUu52F/IKlI6E30c2vFuYkot59nubSGhf/yVJCUCXLYDAi2ExR8V80\nOhG2J7lVkQKBgFfm0gnJRpBm+Ds73wpo4QI4A1Z415FaxSUccZrbRVx4hKkMSMfy\nE/sx8NU4y0g+DYHxIbutxSOJqzEiNce16zRALQbukKCdIcbMRXYqRuQbiQH1SCtV\nsuOwWvP7tkWIYC47DPTB5p8pWr+ACHx5VzqtrCVg0c4OsLGuKBoquQ4ZAoGAWC8T\nQP9ARgvZtilG7oPBrC/lgYgX8b/BTH4++umkz65ZC8evj78ds4w/yf40LaTysnwC\nucVh6zjpr+9xBUxkSYUzmNnbidkY4L9UrcmeJbXdfqtYJtWzIMM/7JYTTVl6sIck\nb84hu1aiom7W45jPKSzUR9aiAnQUy5hMqaVN1fECgYEA9uZPFFdvk7NFE75m2Ni4\n2NZXK2io5NtpN5+i8fyMZYk/PJIAd7AczsUTrei943KE5jGWtxS5NiOsxkWfY9JD\nCjRprWGeogGRh+Zvewa+kfNK7SdXJyhq16EZ7z2c0h4L3N+cyuZKK+5X63GLMdUv\nKRuAxGLAXmKMuzAnwVtNBxM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-612@farm-buddy-chatbot-ncqv.iam.gserviceaccount.com",
+  "client_id": "110433517972974552764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-612%40farm-buddy-chatbot-ncqv.iam.gserviceaccount.com"
+}
